@@ -17,18 +17,24 @@
 </nav>
 </header>
 
-<main>
-<section>
-<h2>راه‌های ارتباط</h2>
-<p>ایمیل: <a href="mailto:info@arshiagoomesterlightom">info@mesterlight.com</a></p>
-<p>اینستاگرام: <a href="https://instagram.com/arshiasionis">@mesterlight</a></p>
-<p>توییتر: <a href="https://twitter.com/arshia508">@arshia508</a></p>
-<p>ویرگول: <a href="https://virgool.io/@mesterlight">@mesterlight</a></p>
-</section>
-</main>
+# MesterLight
 
-<footer>
-<p>© 2025 MesterLight</p>
-</footer>
-</body>
-</html>
+سلام! این ریپازیتوری شامل سایت رسمی و پروژه‌های MesterLight است.  
+هدف: معرفی هویت دیجیتال، پروژه‌ها و محتوای آموزشی و قانونی.
+
+## صفحات سایت
+- [خانه](index.html)
+- [درباره ما](about.html)
+- [پروژه‌ها](projects.html)
+- [تماس](contact.html)
+
+## راه‌های ارتباطی
+- ایمیل: info@mesterlight.com
+- اینستاگرام: [@arshiasionis](https://instagram.com/arshiasionis)
+- توییتر: [@arshia508](https://twitter.com/arshia508)
+- ویرگول: [@mesterlight](https://virgool.io/@mesterlight)
+
+## اهداف
+- تولید محتوای آموزشی و مفید
+- توسعه پروژه‌های قانونی دیجیتال
+- ساخت هویت رسمی و پایدار در فضای اینترنت
