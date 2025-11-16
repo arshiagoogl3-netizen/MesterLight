@@ -20,9 +20,9 @@
 <main>
 <section>
 <h2>راه‌های ارتباط</h2>
-<p>ایمیل: <a href="mailto:info@mesterlight.com">info@mesterlight.com</a></p>
-<p>اینستاگرام: <a href="https://instagram.com/mesterlight">@mesterlight</a></p>
-<p>توییتر: <a href="https://twitter.com/mesterlight">@mesterlight</a></p>
+<p>ایمیل: <a href="mailto:info@arshiagoomesterlightom">info@mesterlight.com</a></p>
+<p>اینستاگرام: <a href="https://instagram.com/arshiasionis">@mesterlight</a></p>
+<p>توییتر: <a href="https://twitter.com/arshia508">@arshia508</a></p>
 <p>ویرگول: <a href="https://virgool.io/@mesterlight">@mesterlight</a></p>
 </section>
 </main>
